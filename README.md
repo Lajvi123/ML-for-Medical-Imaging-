@@ -23,4 +23,4 @@ The project is divided into total 4 stages:
 * Building and fitting Convolutional Neural Network (CNN)
 
 ## CODE
-It is available in this repository.  
+This project is in progress.
