@@ -4,13 +4,13 @@
 This project presents a comprehensive framework employing Machine Learning techniques on chest X-ray images, aiming to facilitate early detection of respiratory diseases. The primary focus involves the application of Convolutional Neural Networks (CNN) and supervised learning classification methods for chest X-ray image recognition.
 ## INSTALL
 This project requires Python and the following Python libraries installed:
-* [Numpy](https://numpy.org/)
+* [PyTorch](https://pytorch.org/)
 * [Pandas](https://pandas.pydata.org/)
-* [Scilit-learn](https://scikit-learn.org/)
+* [torchvision](https://pypi.org/project/torchvision/)
 * [Seaborn](https://seaborn.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
 * [Keras](https://keras.io/)
-* [mahotas](https://mahotas.readthedocs.io/)
+* [Scikit-learn](https://scikit-learn.org/stable/install.html)
 ## DATASETS
 * The dataset utilized in this project is sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia/data).
 * It includes X-ray images of the chest, with training and testing datasets, each containing three subdirectories: ['covid', 'viral pneumonia', 'normal'].
