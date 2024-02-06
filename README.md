@@ -1,5 +1,5 @@
 ## COVID 19 detection from XRAY using Machine Learning
-<img src="https://www.ge.com/news/sites/default/files/Reports/2020-03/lungs.gif">
+
 ## INTRODUCTION
 This project presents a comprehensive framework employing Machine Learning techniques on chest X-ray images, aiming to facilitate early detection of respiratory diseases. The primary focus involves the application of Convolutional Neural Networks (CNN) and supervised learning classification methods for chest X-ray image recognition.
 ## INSTALL
