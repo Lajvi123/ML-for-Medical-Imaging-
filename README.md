@@ -16,11 +16,12 @@ This project requires Python and the following Python libraries installed:
 * It includes X-ray images of the chest, with training and testing datasets, each containing three subdirectories: ['covid', 'viral pneumonia', 'normal'].
 
 ## PROPOSED METHODOLOGY 
-The project is divided into total 4 stages: 
-* Data Acquisition from online resources 
-* Creation of Image Features 
-* Comparison between different classification algorithms to achieve maximum accuracy on training data.
-* Building and fitting Convolutional Neural Network (CNN)
-
+The project is divided into following stages: 
+* Data Acquisition from online resources. 
+* Divide the whole dataset into training and testing datasets.
+* Data Augmentation on datasets.
+* Prepare DataLoader to simplifies the process of loading batches of data during training and evaluation.
+* Use PyTorch's torchvision library to load the ResNet 18.
+* Hypertune the ResNet 18 model and evaluate the model on dataset.
 ## CODE
-This project is in progress.
+Code is available [here]{
