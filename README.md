@@ -1,5 +1,5 @@
 ## COVID 19 detection from XRAY using Machine Learning
-
+![](https://github.com/Lajvi123/ML-for-Medical-Imaging-/blob/main/images/lungs.gif)
 ## INTRODUCTION
 This project presents a comprehensive framework employing Machine Learning techniques on chest X-ray images, aiming to facilitate early detection of respiratory diseases. The primary focus involves the application of Convolutional Neural Networks (CNN) and supervised learning classification methods for chest X-ray image recognition.
 ## INSTALL
