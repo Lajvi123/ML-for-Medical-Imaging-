@@ -24,4 +24,4 @@ The project is divided into following stages:
 * Use PyTorch's torchvision library to load the ResNet 18.
 * Hypertune the ResNet 18 model and evaluate the model on dataset.
 ## CODE
-Code is available [here]{
+Code is available [here]{COVID_19_detection.ipynb}
